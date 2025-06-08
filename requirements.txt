@@ -10,4 +10,3 @@ wikipedia
 youtube_search
 langgraph
 chromadb
-langchain_chromadb
